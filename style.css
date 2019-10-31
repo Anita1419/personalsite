@@ -1,0 +1,115 @@
+
+body{
+margin: 0;
+text-align: center;
+}
+.TOP{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+h1{
+margin : 50px auto 0 auto;
+font-family: 'Satisfy', cursive;
+font-size: 5.625rem;
+color: #4b8e8d;
+}
+h2{
+font-family: 'Cormorant Garamond', serif;
+font-size: 2.5rem;
+ color:#5eb7b7;
+}
+h3{
+ color:#00818a;
+}
+p{
+font-family: 'Amiri', serif;
+font-size: 20px;
+  color: #5f6769;
+}
+.profile{
+ border-radius: 50%;
+ width: 150px;
+ height: 200px;
+}
+.cloudB{
+  position: absolute;
+  left: 367px;
+  top: 360px;
+
+}
+.cloudA{
+position: absolute;
+right: 21.875rem;
+top:3.125rem;
+}
+.mount{
+  margin: 50px auto 50px auto;
+}
+.skillblock{
+width: 50%;
+margin: 100 auto 100 auto;
+text-align: left;
+}
+.circle1{
+ width:170px;
+ height: 170px;
+ background-color:#96d1c7;
+ border-radius: 50%;
+ text-align: center;
+ float: left;
+ margin-right: 30px;
+margin-bottom: 50px;
+
+
+}
+.giphy{
+  width: 50%;
+  margin-top: 2.4375rem;
+}
+
+.skillblock2{
+width: 50%;
+margin: 100 auto 100 auto;
+text-align: right;
+}
+
+.circle2{
+ width:170px;
+ height: 170px;
+ background-color:#96d1c7;
+ border-radius: 50%;
+ text-align: center;
+ float: right;
+ margin-left: 30px;
+
+}
+.lastblock{
+  width: 100%;
+
+}
+.help{
+font-size: 50px;
+font-family: 'Open Sans', sans-serif;
+margin-bottom: 30px;
+color: #00818a;
+}
+.help2{
+  font-size:30px;
+  font-family: 'Lora', serif;
+  margin-top: 0;
+  color: #5eb7b7;
+}
+.help3{
+  font-family: 'Philosopher' ,sans-serif;
+  font-size: 1.5em;
+  font-weight: 300;
+
+  color: #5f6769;
+}
+.Message {
+  padding: 10px;
+  width: 200px;
+  font-size: 1.5em;
+  background-color: #96d1c7;
+}
